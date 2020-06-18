@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/KuznetsovaOlga/photo_project.github.io.git/static/css/main.3fe2a6f0.chunk.css",
-    "main.js": "/KuznetsovaOlga/photo_project.github.io.git/static/js/main.9e62ff2e.chunk.js",
-    "main.js.map": "/KuznetsovaOlga/photo_project.github.io.git/static/js/main.9e62ff2e.chunk.js.map",
-    "runtime-main.js": "/KuznetsovaOlga/photo_project.github.io.git/static/js/runtime-main.b677e10b.js",
-    "runtime-main.js.map": "/KuznetsovaOlga/photo_project.github.io.git/static/js/runtime-main.b677e10b.js.map",
-    "static/js/2.0232ecba.chunk.js": "/KuznetsovaOlga/photo_project.github.io.git/static/js/2.0232ecba.chunk.js",
-    "static/js/2.0232ecba.chunk.js.map": "/KuznetsovaOlga/photo_project.github.io.git/static/js/2.0232ecba.chunk.js.map",
-    "index.html": "/KuznetsovaOlga/photo_project.github.io.git/index.html",
-    "precache-manifest.ade8321dc5884d48a38b4584fe0d2e52.js": "/KuznetsovaOlga/photo_project.github.io.git/precache-manifest.ade8321dc5884d48a38b4584fe0d2e52.js",
-    "service-worker.js": "/KuznetsovaOlga/photo_project.github.io.git/service-worker.js",
-    "static/css/main.3fe2a6f0.chunk.css.map": "/KuznetsovaOlga/photo_project.github.io.git/static/css/main.3fe2a6f0.chunk.css.map",
-    "static/js/2.0232ecba.chunk.js.LICENSE.txt": "/KuznetsovaOlga/photo_project.github.io.git/static/js/2.0232ecba.chunk.js.LICENSE.txt"
+    "main.css": "/photo_project-react.github.io/static/css/main.3fe2a6f0.chunk.css",
+    "main.js": "/photo_project-react.github.io/static/js/main.5a3953aa.chunk.js",
+    "main.js.map": "/photo_project-react.github.io/static/js/main.5a3953aa.chunk.js.map",
+    "runtime-main.js": "/photo_project-react.github.io/static/js/runtime-main.1c387952.js",
+    "runtime-main.js.map": "/photo_project-react.github.io/static/js/runtime-main.1c387952.js.map",
+    "static/js/2.0232ecba.chunk.js": "/photo_project-react.github.io/static/js/2.0232ecba.chunk.js",
+    "static/js/2.0232ecba.chunk.js.map": "/photo_project-react.github.io/static/js/2.0232ecba.chunk.js.map",
+    "index.html": "/photo_project-react.github.io/index.html",
+    "precache-manifest.5350359167c11ce1349ad8fbb5f87bcd.js": "/photo_project-react.github.io/precache-manifest.5350359167c11ce1349ad8fbb5f87bcd.js",
+    "service-worker.js": "/photo_project-react.github.io/service-worker.js",
+    "static/css/main.3fe2a6f0.chunk.css.map": "/photo_project-react.github.io/static/css/main.3fe2a6f0.chunk.css.map",
+    "static/js/2.0232ecba.chunk.js.LICENSE.txt": "/photo_project-react.github.io/static/js/2.0232ecba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b677e10b.js",
+    "static/js/runtime-main.1c387952.js",
     "static/js/2.0232ecba.chunk.js",
     "static/css/main.3fe2a6f0.chunk.css",
-    "static/js/main.9e62ff2e.chunk.js"
+    "static/js/main.5a3953aa.chunk.js"
   ]
 }
